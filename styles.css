@@ -1,12 +1,12 @@
 .will {
     display: inline-block;
-    width: 800px;
+    width: 600px;
     height: 600px;
     background: transparent url("will.jpg") no-repeat;
 }
 
 .will:hover{
     background: url("giphy.gif");
-    width: 800px;
+    width: 00px;
     height: 600px;
 }
