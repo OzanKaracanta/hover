@@ -7,4 +7,6 @@
 
 .will:hover{
     background: url("giphy.gif");
+    width: 800px;
+    height: 600px;
 }
